@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @thequirkycastaway
-- 👀 I’m interested in learning how to code
+- 👋 Hi, I’m thequirkycastaway/mariam
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: discord//mariam?#4837, instagram//@thequirkycastaway
 
