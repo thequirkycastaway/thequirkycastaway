@@ -1,6 +1,5 @@
-- 👋 Hi, I’m thequirkycastaway/mariam
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me: discord//mariam?#4837, instagram//@thequirkycastaway
+- 👋 Hi, I’m mariam
+- 📫 How to reach me: discord - chromiumeater
 
 <!---
 thequirkycastaway/thequirkycastaway is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
